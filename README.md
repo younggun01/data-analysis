@@ -74,3 +74,14 @@
 - requests 라이브러리에 json() -> pandas 사용 안해도 됨.
 - 공공데이터 포털 -> https://www.data.go.kr
 </details>
+
+## 6장 실습 - 데이터 전처리 1
+
+  </summary>
+
+- 데이터 훝어보기
+- DataFrame 열 선택 및 조작
+- DataFrame 행 선택
+- DataFrame 정렬
+
+</details>
