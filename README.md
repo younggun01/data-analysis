@@ -75,6 +75,9 @@
 - 공공데이터 포털 -> https://www.data.go.kr
 </details>
 
+<details>
+  <summary>
+    
 ## 6장 실습 - 데이터 전처리 1
 
   </summary>
